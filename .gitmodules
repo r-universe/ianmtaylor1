@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bstrl"]
+	path = bstrl
+	url = https://github.com/ianmtaylor1/bstrl
+	shallow = true
+	registered = true
